@@ -1,6 +1,6 @@
 module github.com/jhawk7/go-opentel
 
-go 1.17
+go 1.21.4
 
 require (
 	go.opentelemetry.io/otel v1.4.1
