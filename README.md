@@ -3,6 +3,8 @@ Go package for configuring opentelemetry meter and trace providers
 
 Package configures gRPC exporter with the defined exporter url (otelExporterUrl)
 
+* install with `go get github.com/jhawk7/go-opentel`
+
 ## ENV Vars
 The package uses the following env vars to setup the opentelemetry providers
 * `environment` - environment of the application
